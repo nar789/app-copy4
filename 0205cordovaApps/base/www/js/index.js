@@ -1,0 +1,19 @@
+
+
+var app = {
+    // Application Constructor
+    initialize: function() {
+        document.addEventListener('deviceready', this.onDeviceReady.bind(this), false);
+    },
+
+    onDeviceReady: function() {
+        document.getElementById('iframe').src="http://sos3633.cafe24.com/ref0205/app/index.php?no=bighi";
+        window.onmessage=function(e){
+            document.getElementById('iframe').src=e.data;
+        }
+    }
+};
+
+
+
+app.initialize();

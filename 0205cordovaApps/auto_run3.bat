@@ -1,0 +1,1 @@
+bigh config2 && icon-copy.bat && echo "all copied complete!!!!"

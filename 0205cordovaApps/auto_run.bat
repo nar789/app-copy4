@@ -1,0 +1,1 @@
+bigh config1 && platform.bat && build.bat && copy-splash.bat && icon-copy.bat && echo "all copied complete!!!!"
