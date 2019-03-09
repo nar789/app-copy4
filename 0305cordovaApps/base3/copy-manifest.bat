@@ -1,0 +1,1 @@
+copy AndroidManifest.xml C:\Users\leejunghun\gitproject\app-copy4\0305cordovaApps\base3\platforms\android\

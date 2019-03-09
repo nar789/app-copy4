@@ -1,0 +1,9 @@
+{
+	"base":"C:\Users\leejunghun\gitproject\app-copy4\0305cordovaApps/base",
+	"repeat":5,
+	"copy_folder":true,
+	"target":["config.xml","www/js/index.js","copy-splash.bat"
+	,"Splash.java","AndroidManifest.xml","copy-manifest.bat"],
+	"replace":[["미미톡","소라그램","소라넷북","유부스캔들","중년로맨스"],
+	["a8b2","zz58kk7","r89aa","bana8ab2","aomsr8"]]
+}

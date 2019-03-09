@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 -- 테이블 구조 `ref`
 --
 
-CREATE TABLE IF NOT EXISTS `ref` (
+CREATE TABLE IF NOT EXISTS `ref3` (
   `no` int(11) NOT NULL primary key auto_increment,
   `imgurl` varchar(255) DEFAULT NULL,
   `url` varchar(255) DEFAULT NULL
@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `ref` (
 -- 테이블의 덤프 데이터 `ref`
 --
 
-INSERT INTO `ref` (`no`, `imgurl`, `url`) VALUES
+INSERT INTO `ref3` (`no`, `imgurl`, `url`) VALUES
 (1, null, 'http://me2.do/x2iphweU'),
 (2, null, 'http://me2.do/5zBylG9l'),
 (3, null, 'http://me2.do/5zBylG9l'),

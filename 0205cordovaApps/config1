@@ -1,9 +1,0 @@
-{
-	"base":"C:\Users\leejunghun\gitproject\app-copy4\0205cordovaApps/base",
-	"repeat":5,
-	"copy_folder":true,
-	"target":["config.xml","www/js/index.js","copy-splash.bat"
-	,"Splash.java","AndroidManifest.xml","copy-manifest.bat"],
-	"replace":[["나의반쪽","만남레시피","만남의정석","소개팅의정석","우리둘이"],
-	["c3k2","r5abce7","asd85e9","dd89ab2","lking22"]]
-}
